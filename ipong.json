@@ -2,5 +2,6 @@
   "bot": "http://pnode1.danbot.host:1154",
   "bot2": "kosong",
   "uploader": "kosong",
-  "api": "kosong"
+  "api": "kosong",
+  "serverfree": "close"
 }
