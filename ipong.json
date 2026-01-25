@@ -3,6 +3,6 @@
   "bot2": "kosong",
   "uploader": "kosong",
   "api": "http://node62.lunes.host:3059",
-  "bot3": "http://node63.lunes.host:3063",
+  "bot3": "http://172.96.140.62:10802",
   "serverfree": "close"
 }
